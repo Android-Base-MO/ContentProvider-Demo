@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ContactsContentProviderDemo</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="contactActivity">联系人</string>
+    <string name="artist">Tab1</string>
+    <string name="album">Tab2</string>
+</resources>
